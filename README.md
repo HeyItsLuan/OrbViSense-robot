@@ -118,6 +118,9 @@ OrbViSense-robot/
     └── arduino/
         └── ControlConPs4Controller.ino
 ```
+## Robot Images
+
+The `images/` directory contains photographs of the assembled robot and the PCB, including both the front and back sides.
 
 ## Project Status
 
